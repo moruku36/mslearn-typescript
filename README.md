@@ -1,3 +1,10 @@
+# Microsoft Learn TypeScript Exercises
+
+[English](README.md) | [日本語](README.ja.md)
+
+Code exercises accompanying Microsoft Learn TypeScript learning material.
+
+---
 
 # Contributing
 
